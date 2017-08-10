@@ -1,6 +1,6 @@
 <h1 align="center">get-nested-prop</h1>
 <div align="center">
-  <strong>A one-liner to get a nested prop using dot-notation with a optional default value as fallback</strong>
+  <strong>Get a nested prop using dot-notation with a optional default value as fallback</strong>
 </div>
 <br>
 <div align="center">
